@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+/*changed font size of "add-font-size" class (multiple classes), to identify the difference between other classes*/
+.add-font-size{
+    font-size: 35px;
+}
+
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color:hsl(113, 82%, 74%);
+    font-size: 24px;
+    font-weight: bold;
+}
